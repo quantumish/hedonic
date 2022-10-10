@@ -1,0 +1,93 @@
+Model 52: OLS, using observations 1-1380
+Dependent variable: price
+
+              coefficient     std. error    t-ratio   p-value 
+  ------------------------------------------------------------
+  const      −287094         69130.9        −4.153    3.49e-05 ***
+  bed          33819.7       12281.0         2.754    0.0060   ***
+  area           426.427        20.5461     20.75     1.88e-83 ***
+  income           4.85721       0.772300    6.289    4.28e-10 ***
+  tree200m       603.187       194.974       3.094    0.0020   ***
+
+Mean dependent var   899642.2   S.D. dependent var   624797.7
+Sum squared resid    3.22e+14   S.E. of regression   484012.8
+R-squared            0.401625   Adjusted R-squared   0.399885
+F(4, 1375)           230.7227   P-value(F)           1.3e-151
+Log-likelihood      −20019.65   Akaike criterion     40049.29
+Schwarz criterion    40075.44   Hannan-Quinn         40059.08
+
+
+Model 53: OLS, using observations 1-1380
+Dependent variable: price
+
+              coefficient     std. error    t-ratio   p-value 
+  ------------------------------------------------------------
+  const      −330145         67126.1        −4.918    9.78e-07 ***
+  bed          34517.3       12207.3         2.828    0.0048   ***
+  area           428.208        20.4334     20.96     7.63e-85 ***
+  income           4.46746       0.769828    5.803    8.07e-09 ***
+  tree100m      3274.32        647.731       5.055    4.88e-07 ***
+
+Mean dependent var   899642.2   S.D. dependent var   624797.7
+Sum squared resid    3.18e+14   S.E. of regression   481243.2
+R-squared            0.408454   Adjusted R-squared   0.406733
+F(4, 1375)           237.3542   P-value(F)           4.9e-155
+Log-likelihood      −20011.73   Akaike criterion     40033.45
+Schwarz criterion    40059.60   Hannan-Quinn         40043.24
+
+
+Model 54: OLS, using observations 1-1380
+Dependent variable: price
+
+              coefficient     std. error    t-ratio   p-value 
+  ------------------------------------------------------------
+  const      −261993         64138.4        −4.085    4.67e-05 ***
+  bed          33799.7       12256.6         2.758    0.0059   ***
+  area           430.306        20.5473     20.94     9.54e-85 ***
+  income           4.47798       0.774225    5.784    9.03e-09 ***
+  tree50m       7159.01       1859.03        3.851    0.0001   ***
+
+Mean dependent var   899642.2   S.D. dependent var   624797.7
+Sum squared resid    3.21e+14   S.E. of regression   483096.3
+R-squared            0.403889   Adjusted R-squared   0.402155
+F(4, 1375)           232.9047   P-value(F)           9.6e-153
+Log-likelihood      −20017.03   Akaike criterion     40044.06
+Schwarz criterion    40070.21   Hannan-Quinn         40053.84
+
+
+Model 55: OLS, using observations 1-1380
+Dependent variable: price
+
+              coefficient     std. error    t-ratio   p-value 
+  ------------------------------------------------------------
+  const      −217511         62483.7        −3.481    0.0005   ***
+  bed          35552.6       12296.0         2.891    0.0039   ***
+  area           426.641        20.5744     20.74     2.50e-83 ***
+  income           4.59959       0.775832    5.929    3.86e-09 ***
+  tree25m      13547.5        5360.14        2.527    0.0116   **
+
+Mean dependent var   899642.2   S.D. dependent var   624797.7
+Sum squared resid    3.23e+14   S.E. of regression   484570.1
+R-squared            0.400247   Adjusted R-squared   0.398502
+F(4, 1375)           229.4022   P-value(F)           6.3e-151
+Log-likelihood      −20021.23   Akaike criterion     40052.47
+Schwarz criterion    40078.62   Hannan-Quinn         40062.25
+
+
+Model 56: OLS, using observations 1-1380
+Dependent variable: price
+
+              coefficient     std. error    t-ratio    p-value 
+  -------------------------------------------------------------
+  const      −188449         62008.1        −3.039     0.0024   ***
+  bed          34718.1       12353.9         2.810     0.0050   ***
+  area           425.096        20.6142     20.62      1.54e-82 ***
+  income           4.77480       0.774523    6.165     9.26e-10 ***
+  tree10m       −240.491     21637.1        −0.01111   0.9911  
+
+Mean dependent var   899642.2   S.D. dependent var   624797.7
+Sum squared resid    3.24e+14   S.E. of regression   485694.4
+R-squared            0.397460   Adjusted R-squared   0.395707
+F(4, 1375)           226.7518   P-value(F)           1.5e-149
+Log-likelihood      −20024.43   Akaike criterion     40058.87
+Schwarz criterion    40085.01   Hannan-Quinn         40068.65
